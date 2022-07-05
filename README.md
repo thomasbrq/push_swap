@@ -25,6 +25,10 @@ Then launch the program
 ```
 
 Be careful, duplicates are not allowed.
+
+## The Norm
+This project was realized following [the standard 42](https://raw.githubusercontent.com/42Paris/norminette-v3/master/pdf/en.norm.pdf). 
+
 ## Authors
 
 - [@thomasbrq](https://www.github.com/thomasbrq)
